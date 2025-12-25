@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Darshan 👋
 
-<!--
-**DarshanSaindane/DarshanSaindane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student passionate about software development  
+💡 Curious about how systems work and love building small projects  
+🚀 Always learning and improving my coding skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- C++
+- Java
+- JavaScript
+
+---
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- DBMS
+- Web Development
+- Git & GitHub
+
+---
+
+## 📌 Projects
+- ❌⭕ Tic Tac Toe Game  
+- 🎯 Guesser Game  
+
+---
+
+## 📬 Connect with Me
+- GitHub:  
+- LinkedIn:  
+
+
+---
+
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanSaindane&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarshanSaindane&show_icons=true&theme=radical)
+
+---
+
+⭐ *Keep learning, keep building!*
+
