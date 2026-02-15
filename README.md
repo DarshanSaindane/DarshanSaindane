@@ -23,13 +23,14 @@
 
 ## 📌 Projects
 - ❌⭕ Tic Tac Toe Game  
-- 🎯 Guesser Game  
+- 🎯 Guesser Game
+- Hospital Manegament System
 
 ---
 
 ## 📬 Connect with Me
 - GitHub:  
-- LinkedIn:  
+- LinkedIn: https://www.linkedin.com/in/darshan-saindane-4403a42a0/
 
 
 ---
