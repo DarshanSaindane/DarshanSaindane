@@ -29,7 +29,7 @@
 ---
 
 ## 📬 Connect with Me
-- GitHub:  
+- GitHub: https://github.com/DarshanSaindane
 - LinkedIn: https://www.linkedin.com/in/darshan-saindane-4403a42a0/
 
 
